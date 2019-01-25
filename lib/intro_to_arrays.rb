@@ -3,5 +3,5 @@ def instantiate_new_array
 end
 
 def instantiate_new_array
-  @mynewarray = []
+  @mynewarray = ["item 1", "item 2"]
 end
